@@ -1,5 +1,5 @@
 """
-    Cusrom Authentication for the EventMangement.
+    Custom Authentication for the EventMangement.
 
     EventMangement 2023.
 
@@ -9,6 +9,7 @@
 from rest_framework.authentication import BaseAuthentication
 from rest_framework.exceptions import AuthenticationFailed
 from .models import CustomUser
+
 
 class CustomUserAuthenticationBackend(BaseAuthentication):
 

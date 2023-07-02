@@ -1,0 +1,242 @@
+[
+{
+    "model": "events.customuser",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$5GnneRqWzfvIxz2mITTpdD$A4VSc+UKkAwDB9opeihx1nDhMTpICrQtbjdEJtPjhys=",
+        "last_login": "2023-07-02T10:31:33.615Z",
+        "is_superuser": true,
+        "email": "admin@gmail.com",
+        "first_name": "admin",
+        "last_name": "admin",
+        "is_active": true,
+        "is_staff": true,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "events.customuser",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$jDi77HDUBuEd0OrHGwmfSi$rgAuSgt0C6O0BvpkmL3od9tTloPQPu62tdvgLViby+E=",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "jayshreekrishana@yopmail.com",
+        "first_name": "Jay Shree Krishna",
+        "last_name": "Jay Shree Krishna",
+        "is_active": true,
+        "is_staff": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "events.customuser",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$jDi77HDUBuEd0OrHGwmfSi$rgAuSgt0C6O0BvpkmL3od9tTloPQPu62tdvgLViby+E=",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "badryan@yopmail.com",
+        "first_name": "Jay Shree Badryan",
+        "last_name": "Jay Shree Badryan",
+        "is_active": true,
+        "is_staff": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "events.customuser",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$jDi77HDUBuEd0OrHGwmfSi$rgAuSgt0C6O0BvpkmL3od9tTloPQPu62tdvgLViby+E=",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "madhav@yopmail.com",
+        "first_name": "Madhav",
+        "last_name": "Madhav",
+        "is_active": true,
+        "is_staff": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "events.customuser",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$jDi77HDUBuEd0OrHGwmfSi$rgAuSgt0C6O0BvpkmL3od9tTloPQPu62tdvgLViby+E=",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "madhusudan@yopmail.com",
+        "first_name": "Madhusudan",
+        "last_name": "Madhusudan",
+        "is_active": true,
+        "is_staff": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "events.customuser",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$jDi77HDUBuEd0OrHGwmfSi$rgAuSgt0C6O0BvpkmL3od9tTloPQPu62tdvgLViby+E=",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "Janardan@yopmail.com",
+        "first_name": "Jay Shree Janardan",
+        "last_name": "Jay Shree Janardan",
+        "is_active": true,
+        "is_staff": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "events.customuser",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$jDi77HDUBuEd0OrHGwmfSi$rgAuSgt0C6O0BvpkmL3od9tTloPQPu62tdvgLViby+E=",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "test@yopmail.com",
+        "first_name": "test",
+        "last_name": "1",
+        "is_active": true,
+        "is_staff": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "events.customuser",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$jDi77HDUBuEd0OrHGwmfSi$rgAuSgt0C6O0BvpkmL3od9tTloPQPu62tdvgLViby+E=",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "test2@yopmail.com",
+        "first_name": "test",
+        "last_name": "2",
+        "is_active": true,
+        "is_staff": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "events.customuser",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$jDi77HDUBuEd0OrHGwmfSi$rgAuSgt0C6O0BvpkmL3od9tTloPQPu62tdvgLViby+E=",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "test3@yopmail.com",
+        "first_name": "test",
+        "last_name": "3test",
+        "is_active": true,
+        "is_staff": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "events.customuser",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$jDi77HDUBuEd0OrHGwmfSi$rgAuSgt0C6O0BvpkmL3od9tTloPQPu62tdvgLViby+E=",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "test4@yopmail.com",
+        "first_name": "test",
+        "last_name": "4test",
+        "is_active": true,
+        "is_staff": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "events.customuser",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$jDi77HDUBuEd0OrHGwmfSi$rgAuSgt0C6O0BvpkmL3od9tTloPQPu62tdvgLViby+E=",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "test5@yopmail.com",
+        "first_name": "test",
+        "last_name": "5test",
+        "is_active": true,
+        "is_staff": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "events.customuser",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$jDi77HDUBuEd0OrHGwmfSi$rgAuSgt0C6O0BvpkmL3od9tTloPQPu62tdvgLViby+E=",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "test6@yopmail.com",
+        "first_name": "test",
+        "last_name": "6test",
+        "is_active": true,
+        "is_staff": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "events.customuser",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$jDi77HDUBuEd0OrHGwmfSi$rgAuSgt0C6O0BvpkmL3od9tTloPQPu62tdvgLViby+E=",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "test7@yopmail.com",
+        "first_name": "test",
+        "last_name": "7test",
+        "is_active": true,
+        "is_staff": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "events.customuser",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$jDi77HDUBuEd0OrHGwmfSi$rgAuSgt0C6O0BvpkmL3od9tTloPQPu62tdvgLViby+E=",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "test8@yopmail.com",
+        "first_name": "test",
+        "last_name": "8test",
+        "is_active": true,
+        "is_staff": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "events.customuser",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$jDi77HDUBuEd0OrHGwmfSi$rgAuSgt0C6O0BvpkmL3od9tTloPQPu62tdvgLViby+E=",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "test9@yopmail.com",
+        "first_name": "test",
+        "last_name": "9test",
+        "is_active": true,
+        "is_staff": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "events.customuser",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$jDi77HDUBuEd0OrHGwmfSi$rgAuSgt0C6O0BvpkmL3od9tTloPQPu62tdvgLViby+E=",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "test10@yopmail.com",
+        "first_name": "test",
+        "last_name": "10test",
+        "is_active": true,
+        "is_staff": false,
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]
