@@ -7,13 +7,15 @@
 
 3. Activate the virtul enviourment using command `source env/bin/activate`
 
-4. move to project directory ../eventmanagement/
+4. Install dependency run command `pip3 install -r requirements.txt`
+
+5. move to project directory ../eventmanagement/
 
 <!-- Set up the database schema Run Below Command -->
-5. python manage.py migrate
+6. python manage.py migrate
 
-6. Load the user data run command `python manage.py loaddata events/fixtures/users.json
+7. Load the user data run command `python manage.py loaddata events/fixtures/users.json
 
 `. This will add some users in your db for testing purpose only, you can replace it with actual.`
 
-7. Now, Add the Event for the User. after adding the events for the users check user aviability using api `127.0.0.1:8000/events/available-user/`
+8. Now, Add the Event for the User. after adding the events for the users check user aviability using api `127.0.0.1:8000/events/available-user/`
