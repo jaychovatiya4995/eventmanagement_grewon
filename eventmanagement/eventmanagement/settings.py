@@ -103,6 +103,13 @@ AUTH_PASSWORD_VALIDATORS = [
 ]
 
 
+# rest framework settings
+REST_FRAMEWORK = {
+    'DEFAULT_AUTHENTICATION_CLASSES': [
+        'events.backends.CustomUserAuthenticationBackend',
+    ],
+}
+
 # Internationalization
 # https://docs.djangoproject.com/en/4.2/topics/i18n/
 
