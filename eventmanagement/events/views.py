@@ -45,7 +45,7 @@ class AvailableUserList(APIView):
             raise ValidationError('Invalid date format. Date must be in YYYY-MM-DD format.')
 
         queryset = queryset.annotate(is_not_available=Exists(
-            Event.objects.filter(user=OuterRef('pk'), start_datetime__date=date, end_datetime__date=date))
+            Event.objects.filter(user=OuterRef('pk'), start_datetime__gte=date, end_datetime__lte=date))
         ).aggregate(
             total_user=Count('id'),
             is_avilable_count=Count('id', filter=Q(is_not_available=False)),
